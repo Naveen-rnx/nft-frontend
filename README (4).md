@@ -2,7 +2,7 @@
 
 A fully decentralized NFT minting DApp built with **Solidity + OpenZeppelin** on the backend and **Next.js + wagmi + viem** on the frontend. Deployed live on **Ethereum Sepolia Testnet**.
 
-![MNFT Collection](./src/screenshot.png)
+![MNFT Collection](./screenshot.png)
 
 ---
 
